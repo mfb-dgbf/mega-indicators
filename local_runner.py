@@ -48,6 +48,7 @@ NOTEBOOKS = [
     'education/pupil_teacher_ratio.py',
     'education/school_basic_services.py',
     'education/teacher_salaries.py',
+    'agriculture/fao_crop_production.py',  # FAOSTAT bulk file, or FAO_BULK_FILE when present
     'indicator_data_availability.py',  # summarises the tables above (the subnational population step below is not among them)
 ]
 

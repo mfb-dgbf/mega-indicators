@@ -45,6 +45,8 @@ INDICATORS = {
     'teacher_salaries': ('teacher_salaries', [],
         ['teacher_salary_pre_primary', 'teacher_salary_primary', 'teacher_salary_lower_secondary', 'teacher_salary_upper_secondary'],
         'https://databrowser.uis.unesco.org/resources/glossary/3218'),
+    'fao_crop_production': ('fao_crop_production', ['production_t'], [],
+        'https://www.fao.org/faostat/en/#data/QCL'),
     'completion_rates': ('completion_rates', [],
         ['completion_rate_primary', 'completion_rate_lower_secondary', 'completion_rate_upper_secondary'],
         'https://databrowser.uis.unesco.org/resources/glossary/3201'),
